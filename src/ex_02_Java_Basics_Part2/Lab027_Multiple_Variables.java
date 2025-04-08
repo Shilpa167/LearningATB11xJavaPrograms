@@ -7,5 +7,12 @@ public class Lab027_Multiple_Variables {
         int _ = 10;
         //System.out.println(_);
 
+        int local;
+        local = 10;
+        local = 20;
+        local = 30;
+
+        System.out.println(local);
+
     }
 }
